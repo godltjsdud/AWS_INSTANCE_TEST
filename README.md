@@ -1,0 +1,2 @@
+# AWS_INSTANCE_TEST
+AWS EC2 인스턴스 성능 테스트
